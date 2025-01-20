@@ -3,3 +3,5 @@ Created in 2022 using AutoHotkey (AHK), this program automates updates to a spec
 The updates are performed based on information provided in an Excel file. The program automates the process by copying data from the Excel and pasting it into the database's graphical user interface (GUI), streamlining the workflow between Excel and the database program.
 
 Note: This program is no longer maintained, and no further changes or updates will be made.
+
+![AutoHotkeyU64_sKsjAWKA7X](https://github.com/user-attachments/assets/05f3c23c-83c0-49ea-9507-1b83436b694a)
